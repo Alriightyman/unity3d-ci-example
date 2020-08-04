@@ -7,7 +7,7 @@ This project is a PoC to **run unity3d tests and builds inside a CI** using **[g
 
 _github-pages integration will be done in [GabLeRoux/unity3d-ci-example#4](https://github.com/GabLeRoux/unity3d-ci-example/issues/4)._
 
-## Git remotes
+## Git remotes 
 
 This repository is hosted on multiple remotes to provide examples for [Gitlab-CI](https://about.gitlab.com/product/continuous-integration/), [Travis](https://travis-ci.org/) and [CircleCI](https://circleci.com/)
 
